@@ -9,9 +9,9 @@
 
 - 💬 Ask me about ➺ **ReactJS, Nodejs, Express, JavaScript, CSS, HTML and Data Structures and Algorithms**
 
-- 📫 How to reach me ➺ **divyanshu766@gmail.com**
+- 📫 How to reach me ➺ **divyanshu.rawat.dev@gmail.com**
   
-- 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1a5DTB0q4dsLUaWrY86tez4KsmygPIvCt/view?usp=sharing)
+- 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1Hsmec9IAa6QAOYjHD7jLAcAx59sGopoC/view?usp=sharing)
   
  <br/>
 
