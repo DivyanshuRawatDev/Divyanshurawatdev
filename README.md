@@ -11,7 +11,7 @@
 
 - 📫 How to reach me ➺ **divyanshu.rawat.dev@gmail.com**
   
-- 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1Hsmec9IAa6QAOYjHD7jLAcAx59sGopoC/view?usp=sharing)
+- 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1r0hc8FCP-0QK7kAkYqcZpr5oe4iKeHfO/view?usp=sharing)
   
  <br/>
 
