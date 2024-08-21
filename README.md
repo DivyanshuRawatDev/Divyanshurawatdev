@@ -25,6 +25,9 @@
 
 - React
 - JavaScript
+- AWS
+- Redux-Toolkit
+- SEO
 - HTML
 - CSS
 - JAVA
